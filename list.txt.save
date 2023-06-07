@@ -1,0 +1,9 @@
+
+M-C              Toggle the case sensitivity of the search
+M-R              Toggle the use of regular expressions
+M-B              Reverse the direction of the search
+
+^R               Search forward for a string or a regular expression
+
+^P     (Up)      Recall the previous search/replace string
+^N     (Down)    Recall the next search/replace string
